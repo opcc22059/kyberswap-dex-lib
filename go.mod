@@ -19,6 +19,9 @@ require (
 	github.com/sourcegraph/conc v0.3.0
 	github.com/stretchr/testify v1.8.3
 	golang.org/x/sync v0.2.0
+
+	// iziswap
+	github.com/izumiFinance/iZiSwap-SDK-go v1.0.0
 )
 
 require (
